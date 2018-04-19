@@ -3,7 +3,7 @@ A NumberGame project I wrote for my Pre-AP CSI class.
 
 For this project, you will be using some things that we have learned and some things that we haven't. I want to see how resourceful you are, because programming sometimes asks us to do things we don't yet understand.
 
-Here's what I want you to do:\
+Here's what I want you to do:
 
 1. I want our user to control whether or not they play our game again. They should be prompted with something like "Do you want to play again? (Y/N)"
   If they enter Y, they should start a new game.
