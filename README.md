@@ -9,7 +9,7 @@ Here's what I want you to do:
   If they enter Y, they should start a new game.
   If they enter N, the game should thank them for playing and then terminate.
   
-2. So far our user can only guess a number between one and ten. What is they want more of a challenge? They should be able to control the range variable to update the game at the beginning. Make the proper changes to allow the user to control the range.
+2. So far our user can only guess a number between one and ten. What if they want more of a challenge? They should be able to control the range variable to update the game at the beginning. Make the proper changes to allow the user to control the range.
 
 3. Say that the user changes the game to be at a range of 1-1000. We would still be giving them only three chances to guess the number. That seems a bit difficult. Create a solution to allow the user to set the number of guesses they will have, so that they can control the difficulty. 
 
